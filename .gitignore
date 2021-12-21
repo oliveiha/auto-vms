@@ -1,0 +1,15 @@
+bootstrap/
+/.idea
+/*.iml
+.vagrant
+/registry
+/registry-mirror
+*.retry
+*.deb
+vault/starting-tutorial/vault-bk/
+*.temp.*
+*.out
+.classpath
+.settings/
+.project
+temp/
